@@ -11,3 +11,6 @@ git clone https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts
 4. run the test: npm test
 5. the test should pass
 6. commit your changes to github and submit your github url
+
+
+tests didnt pass 
